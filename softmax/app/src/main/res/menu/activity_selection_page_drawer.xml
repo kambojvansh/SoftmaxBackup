@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_report_card"
+            android:icon="@drawable/icons8_report_card_64"
+            android:title="ReportCard" />
+        <item
+            android:id="@+id/nav_E-book"
+            android:icon="@drawable/e_book"
+            android:title="E-Book" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/play_button"
+            android:title="Videos" />
+        <!-- <item
+             android:id="@+id/nav_fees"
+             android:icon="@drawable/icon_cash_in_hand_40"
+             android:title="Due Fees" />-->
+         <item
+             android:id="@+id/nav_attendance"
+             android:icon="@drawable/icons8_classroom_64"
+             android:title="Attendance" />
+         <item
+             android:id="@+id/nav_notice"
+             android:icon="@drawable/warning"
+             android:title="Notice" />
+
+      <!--   <item
+             android:id="@+id/nav_Result"
+             android:icon="@drawable/icons8_report_card_64"
+             android:title="Result" />-->
+
+         <item
+             android:id="@+id/nav_home_work"
+             android:icon="@drawable/pencil"
+             android:title="Home work" />
+      <!--   <item
+             android:id="@+id/nav_notice_board"
+             android:icon="@drawable/icons8_billboard_64"
+             android:title="Notice board" />-->
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/user"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/privacy"
+            android:title="Privacy Policy" />
+
+         <item
+             android:id="@+id/nav_logout"
+             android:icon="@drawable/logouti"
+             android:title="Logout" />
+
+         <item
+             android:id="@+id/nav_exit"
+             android:icon="@drawable/logout"
+             android:title="Exit" />
+     </group>
+
+     <item android:title="Communicate">
+         <menu>
+             <item
+                 android:id="@+id/nav_about_us"
+                 android:icon="@drawable/group"
+                 android:title="About us" />
+
+         </menu>
+
+     </item>
+
+ </menu>

@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary3</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary3</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark3</item>
+        <item name="colorAccent">@color/colorAccent3</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/cornflowerblue</item>
+        <item name="colorPrimaryDark">@color/cornflowerblue</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:windowBackground">@color/cornflowerblue</item>
+
+        <item name="colorControlNormal">@color/cornflowerblue</item>
+        <item name="colorControlActivated">@color/cornflowerblue</item>
+        <item name="colorControlHighlight">@color/cornflowerblue</item>
+        <item name="android:textColorHint">@color/cornflowerblue</item>
+
+        <item name="colorButtonNormal">@color/cornflowerblue</item>
+        <!--   <item name="android:colorButtonNormal">@color/primary_darker</item>-->
+    </style>
+    <style name="AppTheme.Dark1" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:windowBackground">@color/white</item>
+
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+
+        <item name="colorButtonNormal">@color/white</item>
+        <!--   <item name="android:colorButtonNormal">@color/primary_darker</item>-->
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

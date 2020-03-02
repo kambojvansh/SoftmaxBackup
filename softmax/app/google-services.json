@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "939294048963",
+    "firebase_url": "https://makeover-34e3b.firebaseio.com",
+    "project_id": "makeover-34e3b",
+    "storage_bucket": "makeover-34e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939294048963:android:858a54690824a766",
+        "android_client_info": {
+          "package_name": "com.example.kamboj.makeover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939294048963-v72t36p6ctqqcc4k421cusijggragu7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamboj.makeover",
+            "certificate_hash": "10193ed7ee15985f966e42b68e95edd7fbcb1db6"
+          }
+        },
+        {
+          "client_id": "939294048963-e87ge4nvbrf342hqpam17gbq5pkkhi1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamboj.makeover",
+            "certificate_hash": "d4e48ea716e6188f434159b34b7b3131fe934bf9"
+          }
+        },
+        {
+          "client_id": "939294048963-orol1ap8vden4kujcuitr4ar7gf5auis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOi9DqHtldR72bKv21VSYjEddUADo08Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939294048963-orol1ap8vden4kujcuitr4ar7gf5auis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939294048963:android:d3c54c84754506c9",
+        "android_client_info": {
+          "package_name": "com.example.vansh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939294048963-tnjd2o4hmg6gha6si8ili7dbubu6prr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vansh.myapplication",
+            "certificate_hash": "6ce11be39bcd7b982c450978777815d12b646e33"
+          }
+        },
+        {
+          "client_id": "939294048963-vkaou0vmsblgl48plj6i1ou87bt101lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vansh.myapplication",
+            "certificate_hash": "f512194d7af0e41bcbc936ac467ff026203a17bb"
+          }
+        },
+        {
+          "client_id": "939294048963-m68ek1tqs4qi4s3a87rt7ftv5aakpq55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vansh.myapplication",
+            "certificate_hash": "64b427a6f47e12c49238f8dde66e1a1d5621597f"
+          }
+        },
+        {
+          "client_id": "939294048963-69t481gmlntmdnauf3j8s9ksfhgnokfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vansh.myapplication",
+            "certificate_hash": "10193ed7ee15985f966e42b68e95edd7fbcb1db6"
+          }
+        },
+        {
+          "client_id": "939294048963-orol1ap8vden4kujcuitr4ar7gf5auis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOi9DqHtldR72bKv21VSYjEddUADo08Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939294048963-orol1ap8vden4kujcuitr4ar7gf5auis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939294048963:android:ef2c822a0d80c09d",
+        "android_client_info": {
+          "package_name": "com.softmax.vansh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939294048963-8mtv035riomhr7ganfsf4kvti03056dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softmax.vansh.myapplication",
+            "certificate_hash": "6ce11be39bcd7b982c450978777815d12b646e33"
+          }
+        },
+        {
+          "client_id": "939294048963-cngbqbjtnp24fcf54h8od029i0t0sqva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softmax.vansh.myapplication",
+            "certificate_hash": "f512194d7af0e41bcbc936ac467ff026203a17bb"
+          }
+        },
+        {
+          "client_id": "939294048963-3ali82s6iehlb8u57fdhir425vunt10t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softmax.vansh.myapplication",
+            "certificate_hash": "64b427a6f47e12c49238f8dde66e1a1d5621597f"
+          }
+        },
+        {
+          "client_id": "939294048963-1q8nf3ijiene9n7d2c1s0o0ha7jjsans.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softmax.vansh.myapplication",
+            "certificate_hash": "10193ed7ee15985f966e42b68e95edd7fbcb1db6"
+          }
+        },
+        {
+          "client_id": "939294048963-orol1ap8vden4kujcuitr4ar7gf5auis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOi9DqHtldR72bKv21VSYjEddUADo08Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939294048963-orol1ap8vden4kujcuitr4ar7gf5auis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

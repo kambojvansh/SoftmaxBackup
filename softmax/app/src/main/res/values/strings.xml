@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Softmax</string>
+    <string name="title_activity_main2">Softmax</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_selection_page">Softmax</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="attendance1">Attendance</string>
+    <string name="some_books_found">Some Books Found</string>
+    <string name="select_date">Click here to select Homework(Text) date</string>
+    <string name="home_work">Homework not found on this date</string>
+    <string name="show">show</string>
+    <string name="softmax">Softmax</string>
+    <string name="enter_mobile_no">Enter Mobile No</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="no_notice_fond">No Notice Fond</string>
+    <string name="enter_your_otp_code">Enter code</string>
+    <string name="submit">Submit</string>
+    <string name="school">School</string>
+    <string name="name">Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="school_name">school_name</string>
+    <string name="wellcome_name">Wellcome_Name</string>
+    <string name="class_name">class_name</string>
+    <string name="report_card">ReportCard</string>
+    <string name="notice">Notice Board</string>
+    <string name="home_work1">Dairy</string>
+    <string name="attendance">Attendance</string>
+    <string name="videos">Videos</string>
+    <string name="e_book">E-Books</string>
+    <string name="softtmax">Softmax</string>
+    <string name="con_num">9315895534</string>
+    <string name="notice_not_found">Notice Not Fond</string>
+    <string name="resend">Resend</string>
+    <string name="subjects">Subjects</string>
+    <string name="verify">Verify</string>
+    <string name="welcome">Welcome</string>
+    <string name="change">Change</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_learning">E-Learning</string>
+</resources>
